@@ -6,9 +6,11 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts-ts": "^2.13.0"
+    "react-scripts-ts": "^2.13.0",
+    "rxjs": "^6.0.0-alpha.4"
   },
   "scripts": {
+    "s":"ts-pack dev",
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
